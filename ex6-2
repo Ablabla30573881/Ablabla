@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int a,b,c;
+    cin>>a;
+    cin>>b;
+    cin>>c;
+    int d;
+    d=(a+b);
+    if (c>d) {
+    	cout<<"false";
+	}
+	else if (c<d) {
+    	cout<<"false";
+	}
+	else{
+		cout<<"right";
+	}
+          }
+            
